@@ -69,7 +69,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "Now",
       description:
-        "Researching and creating AI tools for hard-of-hearing people",
+        "Hope of getting intership",
     },
     {
       company: "Yasan Academy",
