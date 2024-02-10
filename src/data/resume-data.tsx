@@ -63,7 +63,7 @@ export const RESUME_DATA = {
     {
       company: "Social and Cognitive Robotics Research Lab, Sharif University of Technology",
       link: "https://en.sharif.edu/en/web/sharif-en/w/how-socio-cognitive-robotics-laboratory-of-sharif-university-of-technology-assists-children-in-education-and-healthcare-",
-      badges: [""],
+      badges: [],
       title: "Machine Learning Apprentice Engineer",
       logo: ClevertechLogo,
       start: "2023",
