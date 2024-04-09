@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Tehran, Iran",
   locationLink: "https://www.google.com/maps/place/Tehran",
   about:
-    "Machine Learning Engineer focused on building tools with extra attention to detail",
+    "Computer engineering student focused on learning machine Learning and building tools with extra attention to detail",
   summary:
     "AI enthusiast in Computer Engineering. Committed to inclusive tech for all, especially the deaf and hard-of-hearing. Skilled in ML, Computer Vision, and NLP. Creating transformative solutions like real-time captioning and sign language recognition. Passionate about collaborative work and making a positive impact through accessible AI innovations.",
   avatarUrl: "https://avatars.githubusercontent.com/u/7106201?v=4",
