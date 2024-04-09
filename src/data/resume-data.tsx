@@ -66,10 +66,10 @@ export const RESUME_DATA = {
       badges: [],
       title: "Machine Learning Apprentice Engineer",
       logo: ClevertechLogo,
-      start: "2023",
+      start: "2024",
       end: "Now",
       description:
-        "Hope of getting internship",
+        "Learning from experts and implementing new algorithms to solve real-world problems",
     },
     {
       company: "Yasan Academy",
